@@ -1,7 +1,6 @@
 import smtplib
 from tkinter import *
 
-
 def send_message():
     
     address_info = address.get()
